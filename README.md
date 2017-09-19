@@ -1,2 +1,2 @@
 # linux
-this is tutorial file
+this is tutorial file pur
